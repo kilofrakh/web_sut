@@ -1,0 +1,27 @@
+h1 {
+    color: rgb(255, 0, 13);
+    font-size: 1000%;
+}
+
+p {
+    color: rgba(0, 255, 0, 1);
+    font-size: 200%;
+    text-decoration: double underline;
+    font-style: italic;
+    font-variant: small-caps;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.t1 {
+    color: rgb(255, 0, 13);
+    font-size: 500%;
+}
+
+#iii {
+    color: rgb(0, 34, 255);
+    font-size: 300%;
+    text-decoration: double underline;
+    font-style: italic;
+    font-variant: small-caps;
+    font-family: 'Times New Roman', Times, serif;
+}
